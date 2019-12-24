@@ -1,2 +1,2 @@
-# Angry-birds-stage-4.0
-today we have made the bird fly.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
